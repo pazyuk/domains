@@ -11,5 +11,5 @@ nftset=/githubcopilot.com/4#inet#fw4#vpn_domains
 nftset=/anthropic.com/4#inet#fw4#vpn_domains
 nftset=/claude.ai/4#inet#fw4#vpn_domains
 nftset=/xvideos.com/4#inet#fw4#vpn_domains
-nfset=/github.com/4#inet#fw4#vpn_domains
-nfset=/zapier.com/4#inet#fw4#vpn_domains
+nftset=/github.com/4#inet#fw4#vpn_domains
+nftset=/zapier.com/4#inet#fw4#vpn_domains
