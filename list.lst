@@ -15,3 +15,4 @@ nftset=/github.com/4#inet#fw4#vpn_domains
 nftset=/zapier.com/4#inet#fw4#vpn_domains
 nftset=/default.exp-tas.com/4#inet#fw4#vpn_domains
 nftset=/api.github.com/4#inet#fw4#vpn_domains
+nftset=/hashicorp.com/4#inet#fw4#vpn_domains
